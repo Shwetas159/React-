@@ -6,3 +6,10 @@ React is used to build single-page applications.
 
 React allows us to create reusable UI components.
 
+Run the React Application
+
+cd my-react-app
+
+Run this command to execute the React application my-react-app:
+
+npm start
